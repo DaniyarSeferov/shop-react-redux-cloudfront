@@ -1,3 +1,17 @@
+## Manual configured s3/cloudfront resources:
+
+S3 link - http://epam-first-rs-app.s3-website-eu-west-1.amazonaws.com
+
+Cloudfront link - https://d36fv0gcl1ri20.cloudfront.net
+
+## Automated configured s3/cloudfront resources:
+
+S3 link - http://epam-second-rs-app.s3-website-eu-west-1.amazonaws.com
+
+Cloudfront link - https://d3rtemkr7wj08n.cloudfront.net
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
